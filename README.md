@@ -5,6 +5,10 @@ Everything has been setup, so you can just start coding out of the box!
 # SETUP:
 
 clone git repo
+# install dependencies
+```
+npm install
+```
 
 ## run vite+electron
 ```
